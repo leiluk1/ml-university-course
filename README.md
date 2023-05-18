@@ -6,10 +6,16 @@ Topics from Assignment 1 (see `assignment_1.ipynb`):
 - Logistic Regression
 - KNN
 
-Topics from Assignment 2 (see `assignment_2.ipynb`):
+Topics from `assignment_2_ann.ipynb`:
 - ANN to solve classification problem
+
+Topics from `assignment_2_cnn.ipynb`:
 - CNN for image classification
-- Decision Tree, Random Forest
+- Early Stopping, Data augmentation
+
+Topics from `assignment_2_dt.ipynb`:
+- Decision Tree
+- Random Forest
 
 Topics for an Extra task (see `extra_task.ipynb`):
 - K-means++ Algorithm
