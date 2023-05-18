@@ -13,4 +13,4 @@ Topics from Assignment 2 (see `assignment_2.ipynb`):
 
 Topics for an Extra task (see `extra_task.ipynb`):
 - K-means++ Algorithm
-- Elbow method, PCA "# ml-university-course" 
+- Elbow method, PCA 
